@@ -1,9 +1,9 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-#container{
+main {
   width: 1200px;
   height: 1000px;
   /* background: #D8D8D8; */
@@ -11,14 +11,14 @@
   padding: 0.5em;
 }
 
-#header{
+header {
   height: 15%;
   background: #A4A4A4;
   border-radius: 1em;
   margin: 1em;
 }
 
-#nav{
+nav {
   height: 10%;
   background: #424242;
   border-radius: 1em;
@@ -31,14 +31,14 @@
   margin: 1em;
 }
 
-#footer{
+footer {
   height: 15%;
   background: #424242;
   border-radius: 1em;
   margin: 1em;
 }
 
-#section{
+section {
   height: 96%;
   width: 71%;
   background: #A4A4A4;
@@ -47,8 +47,8 @@
   margin: 0.5em;
 }
 
-#aside{
-  height: 95%;
+aside {
+  height: 96%;
   width: 25%;
   background: #a4a4a4;
   border-radius: 1em;
@@ -56,7 +56,7 @@
   margin: 0.5em;
 }
 
-.article{
+article {
   width: 96%;
   height: 20%;
   background: #424242;
